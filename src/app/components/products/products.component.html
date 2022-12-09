@@ -1,0 +1,18 @@
+<div class="product">
+    <div class="edit showmore" *ngIf="canEdit">Add Products</div>
+   
+    <div class="product__wrapper">
+        <div class="product__container" *ngFor="let product of products">
+            <div class="product__title">{{ product.title }}</div>
+            <div class="product__sub-title">Price: {{ product.price | currency }}</div>
+            <div class="product__sub-title">Year: 2020</div>
+            <img [src]="product.image" alt="" class="product__image">
+            <div class="product__actions">
+                <a href="" class="product__actions-like">В корзину</a>
+                <a [routerLink]="['/products', product.id]" class="product__actions-share">Подробнее</a>
+            </div>
+        </div>
+        
+    </div>
+    <div (click)="showMore()" class="showmore">Show More</div>
+</div>

@@ -1,0 +1,13 @@
+<div class="details">
+    <div class="details__container">
+        <div class="details__main">
+            <div class="details__title">{{ product.title }}</div>
+            <img class="details__image" [src]="product.image" alt="">
+        </div>
+        <div class="details__info">
+            <div class="details__info-chip">CHIP: {{ product.configure.chip }}</div>
+            <div class="details__info-memory">MEMORY: {{ product.configure.memory }}</div>
+            <div class="details__info-display">DISPLAY: {{ product.configure.display }}</div>
+        </div>
+    </div>
+</div>

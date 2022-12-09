@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxYavwjAhC37iXEOuwN-8HqpZ2-U6Gu7GoA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 2,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZu7s5BFURNrGcB4XN3d2epVElcO8TO69wlMBgYacHsTOo9cU_YvErou-ObzYLeTIkMYw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 3,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqUJ5QVOoCKmBpqYaW-ENGu7Qk-2cjbfyYg&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 4,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkMhkNGoDPyNUnhGxzosaOO7XtH0vCt77rw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 5,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPXBgYtGp-HmtngxM9kGh0JOexvu2gG5ckw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 6,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFk_N-IyqMMjfux0cp1YK23ZCrA61gXBxvJA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 7,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWm4KKCNDJBQxhcRx0ikX0KMZ9-l1Uu4h5bA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 8,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVM3Q510qECxpOR81kyRVoZd0b-6SSAU-QA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 9,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtL9uQi2dtexnZ0wgEcyYf82vxrVjuWGkYXtEtfi43HuUEr_4VLRbZVV-OsDW91vfKdQ&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 10,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4a4B4zdQy3M0jQ6m2RtqFSmXRu8vCWCgt3g&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 11,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxYavwjAhC37iXEOuwN-8HqpZ2-U6Gu7GoA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 12,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZu7s5BFURNrGcB4XN3d2epVElcO8TO69wlMBgYacHsTOo9cU_YvErou-ObzYLeTIkMYw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 13,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqUJ5QVOoCKmBpqYaW-ENGu7Qk-2cjbfyYg&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 14,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkMhkNGoDPyNUnhGxzosaOO7XtH0vCt77rw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 15,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPXBgYtGp-HmtngxM9kGh0JOexvu2gG5ckw&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 16,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFk_N-IyqMMjfux0cp1YK23ZCrA61gXBxvJA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 17,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWm4KKCNDJBQxhcRx0ikX0KMZ9-l1Uu4h5bA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 18,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVM3Q510qECxpOR81kyRVoZd0b-6SSAU-QA&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 19,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtL9uQi2dtexnZ0wgEcyYf82vxrVjuWGkYXtEtfi43HuUEr_4VLRbZVV-OsDW91vfKdQ&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        },
+        {
+            "id": 20,
+            "title": "MacBook Pro",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4a4B4zdQy3M0jQ6m2RtqFSmXRu8vCWCgt3g&usqp=CAU",
+            "configure": {
+                "chip": "M1",
+                "SSD": "256 GB",
+                "memory": "16 GB",
+                "display": "Retina"
+            }
+        }
+    ]
+}
